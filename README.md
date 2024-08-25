@@ -1,5 +1,5 @@
 # JTAG-Connect
-USB-blaster programming the intel/altera FPGA using a DIY spring clip with pogo-pins that clips onto a standard 2.0 mm pin pitch SMD-footprint:
+USB-blaster programming the intel/altera FPGA using a DIY spring clip with pogo-pins that clips onto a standard 2.0 mm pin pitch JTAG SMD-footprint:
 
 <br />
 <a href="images/JTAG_connect_pic1.jpg">
@@ -93,7 +93,7 @@ Start with the back row (it will be easier to solder) and you can use a 2.0 mm p
 
 ### Soldering the Handheld version:
 
-I used a 2.0 mm pin pitch connector as a Jig to hold the pins in place at a nice consistant distance:
+I used a 2.0 mm pin pitch connector as a Jig to hold the pins in place at a nice consistent distance:
 
 <a href="images/JTAG_connect_pic11.jpg">
 <img src="images/JTAG_connect_pic11.jpg" width="256" height="192">
