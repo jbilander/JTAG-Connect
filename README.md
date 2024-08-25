@@ -75,7 +75,7 @@ And write a comment about V-scoring is specified on the User-Comment layer.
 <img src="images/JTAG_connect_pic6.jpg" width="256" height="192">
 </a>
 <br />
-Start with the back row (it will be easier to solder) and you can use a 2.0 mm pin pitch connector as a Jig to get the square top pins aligned. 
+Start with the back row (it will be easier to solder) and you can use a 2.0 mm pin pitch connector as a Jig to get the square top pins aligned.<br /> 
 <a href="images/JTAG_connect_pic7.jpg">
 <img src="images/JTAG_connect_pic7.jpg" width="516" height="688">
 </a>
