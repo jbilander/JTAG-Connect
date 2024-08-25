@@ -15,7 +15,7 @@ USB-blaster programming the intel/altera FPGA using a DIY spring clip with pogo-
 
 ***
 
-video with the spring clip in action:
+video with the spring clip in action:<br />
 https://drive.google.com/file/d/1q0D7EuQR9gsi54iwchI4ziomZzsiyqWE/view?usp=sharing
 
 I have spare PCBs in case anyone is interested in this, or I can make to order for a fiver + shipping (until my spares are depleted) in case anyone can't build themselves. You will have to source the DIY clip (including screws) yourself from [aliexpress](https://www.aliexpress.com/item/1005004383076344.html) or similar.<br />
