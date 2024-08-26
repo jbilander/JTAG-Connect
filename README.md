@@ -20,6 +20,14 @@ https://drive.google.com/file/d/1q0D7EuQR9gsi54iwchI4ziomZzsiyqWE/view?usp=shari
 
 I have spare PCBs in case anyone is interested in this, or I can make to order for a fiver + shipping (until my spares are depleted) in case anyone can't build themselves. You will have to source the DIY clip (including screws) yourself from [aliexpress](https://www.aliexpress.com/item/1005004383076344.html) or similar.<br />
 my email: jorgen.bilander at gmail com
+<br />
+
+The receptacle pogo pin socket I use, R50-3W:
+https://www.aliexpress.com/item/1005003512878045.html
+
+The pogo pin I use, P50-Q1:
+https://www.aliexpress.com/item/1005002199072447.html
+
 
 ***
 
