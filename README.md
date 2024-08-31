@@ -30,8 +30,14 @@ https://www.aliexpress.com/item/1005002199072447.html
 
 
 ***
+Connector pinout:
 
-<br />
+<a href="images/JTAG_connector_pinout.jpg">
+<img src="images/JTAG_connector_pinout.jpg" width="563" height="462">
+</a>
+
+***
+
 <a href="images/JTAG_connect_screenshot.png">
 <img src="images/JTAG_connect_screenshot.png" width="512" height="293">
 </a>
