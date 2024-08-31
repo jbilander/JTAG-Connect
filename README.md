@@ -44,6 +44,21 @@ Designed for the common DIY spring clip plenty available on AliExpress:
 
 ***
 
+The 6-pin handheld version:
+
+<a href="images/JTAG_connect_pic15.jpg">
+<img src="images/JTAG_connect_pic15.jpg" width="256" height="192">
+</a>
+<a href="images/JTAG_connect_pic16.jpg">
+<img src="images/JTAG_connect_pic16.jpg" width="256" height="192">
+</a>
+</a>
+<a href="images/JTAG_connect_pic17.jpg">
+<img src="images/JTAG_connect_pic17.jpg" width="256" height="192">
+</a>
+
+***
+
 A PCB panel also with a 6-pin version and handheld versions of the two:
 
 <a href="images/PCB_panel_RevA_screenshot.png">
